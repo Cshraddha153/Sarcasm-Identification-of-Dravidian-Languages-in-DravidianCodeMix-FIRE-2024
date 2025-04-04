@@ -24,3 +24,6 @@ languages are code-mixed.
 
 The goal of this task is to identify sarcasm and sentiment polarity of the code-mixed dataset of comments/posts in Tamil-English
 and Malayalam-English collected from social media.
+
+
+## PAPER PDF :- [A Transformer-Based Model for Detecting Multilingual Sarcasm in Social Media Posts.pdf](https://github.com/user-attachments/files/19603127/A.Transformer-Based.Model.for.Detecting.Multilingual.Sarcasm.in.Social.Media.Posts.pdf)
